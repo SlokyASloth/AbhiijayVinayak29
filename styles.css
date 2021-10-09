@@ -70,11 +70,13 @@ images\|/
 }
 
 hr {
-  width: 4%;
   border-style: none;
   border-top-style: dotted;
-  border-width: 10px;
-  color: #191b35;
+  border-color: #4c4c6d;
+  border-width: 8px;
+  width: 5%;
+  color: #262a53;
+  margin-left: 47%;
 }
 .middle-containar {
   background-color: red;
